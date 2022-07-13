@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![](https://img.shields.io/badge/Mnogodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/AWS-00C7B7?style=for-the-badge&logo=aws&logoColor=white)
 ![](https://img.shields.io/badge/styled--component-ff5f00?style=for-the-badge&logo=styled-component&logoColor=white)
